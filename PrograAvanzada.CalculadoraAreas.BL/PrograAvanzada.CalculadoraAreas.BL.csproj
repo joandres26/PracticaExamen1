@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Logica\Accion\CalcularCuadrado.cs" />
+    <Compile Include="Logica\Accion\Rectangulo\CalcularPerimetroRectangulo.cs" />
     <Compile Include="Logica\Especificacion\AreaDeUnCuadrado.cs" />
     <Compile Include="Logica\Servicio\CalculadoraDeAreas.svc.cs">
       <DependentUpon>CalculadoraDeAreas.svc</DependentUpon>
