@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="PrograAvanzada.CalculadoraAreas.BL.Logica.Servicio.Service1" CodeBehind="CalculadoraDePerimetros.svc.cs" %>

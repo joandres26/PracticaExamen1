@@ -5,7 +5,7 @@ using System.Web;
 
 namespace PrograAvanzada.CalculadoraAreas.BL.Logica.Accion
 {
-    public class CalcularRectangulo
+    public class CalcularPerimetroRectangulo
     {
 
         public double CalcularPerimetro(double elLado1, double elLado2)

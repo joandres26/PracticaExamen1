@@ -62,16 +62,22 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Logica\Servicio\CalculadoraDeAreas.svc" />
+    <Content Include="Logica\Servicio\CalculadoraDePerimetros.svc" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Logica\Accion\CalcularCuadrado.cs" />
     <Compile Include="Logica\Accion\Rectangulo\CalcularPerimetroRectangulo.cs" />
     <Compile Include="Logica\Especificacion\AreaDeUnCuadrado.cs" />
+    <Compile Include="Logica\Especificacion\Rectangulo\PerimetroDeUnRectangulo.cs" />
     <Compile Include="Logica\Servicio\CalculadoraDeAreas.svc.cs">
       <DependentUpon>CalculadoraDeAreas.svc</DependentUpon>
     </Compile>
     <Compile Include="Logica\Interfaz\ICalculadoraAreas.cs" />
+    <Compile Include="Logica\Interfaz\ICalculadoraPerimetro.cs" />
+    <Compile Include="Logica\Servicio\CalculadoraDePerimetros.svc.cs">
+      <DependentUpon>CalculadoraDePerimetros.svc</DependentUpon>
+    </Compile>
     <Compile Include="Logica\Validacion\LadosPositivos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

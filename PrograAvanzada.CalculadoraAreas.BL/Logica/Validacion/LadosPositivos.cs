@@ -18,5 +18,11 @@ namespace PrograAvanzada.CalculadoraAreas.BL.Logica.Validacion
             var elResultado = (lado1 > 0 && lado2>0 &&lado3>0 &&lado4>0);
             return elResultado;
         }
+
+        public bool Verificar2Lados(double lado1, double lado2)
+        {
+            var elResultado = (lado1 > 0 && lado2 > 0);
+            return elResultado;
+        }
     }
 }
