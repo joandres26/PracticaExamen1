@@ -1,0 +1,7 @@
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\PrograAvanzada.CalculadoraAreas.BL\bin\PrograAvanzada.CalculadoraAreas.BL.dll.config
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\PrograAvanzada.CalculadoraAreas.BL\bin\PrograAvanzada.CalculadoraAreas.BL.dll
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\PrograAvanzada.CalculadoraAreas.BL\bin\PrograAvanzada.CalculadoraAreas.BL.pdb
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\PrograAvanzada.CalculadoraAreas.BL\obj\Debug\PrograAvanzada.CalculadoraAreas.BL.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\PrograAvanzada.CalculadoraAreas.BL\obj\Debug\PrograAvanzada.CalculadoraAreas.BL.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\PrograAvanzada.CalculadoraAreas.BL\obj\Debug\PrograAvanzada.CalculadoraAreas.BL.dll
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\PrograAvanzada.CalculadoraAreas.BL\obj\Debug\PrograAvanzada.CalculadoraAreas.BL.pdb

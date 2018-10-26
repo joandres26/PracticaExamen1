@@ -1,0 +1,17 @@
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\obj\Debug\CalculadoraDeAreas.UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\obj\Debug\CalculadoraDeAreas.UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\bin\Debug\CalculadoraDeAreas.UnitTesting.dll
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\bin\Debug\CalculadoraDeAreas.UnitTesting.pdb
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\bin\Debug\PrograAvanzada.CalculadoraAreas.BL.dll
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\bin\Debug\PrograAvanzada.CalculadoraAreas.BL.pdb
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\bin\Debug\PrograAvanzada.CalculadoraAreas.BL.dll.config
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\obj\Debug\CalculadoraDeAreas.UnitTesting.csproj.CopyComplete
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\obj\Debug\CalculadoraDeAreas.UnitTesting.dll
+C:\Users\Laboratorios\Desktop\2018-3-PrograAvanzadaWebSabado-master\PrograAvanzada.CalculadoraAreas\CalculadoraDeAreas.UnitTesting\obj\Debug\CalculadoraDeAreas.UnitTesting.pdb
